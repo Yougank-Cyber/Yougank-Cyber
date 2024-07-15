@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://Yougank-Cyber.io)
 <h1 align="center">Hi 👋, I'm Yougank PJ!</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
