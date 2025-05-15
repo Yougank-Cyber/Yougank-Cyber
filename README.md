@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yougank PJ!</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 📫 How to reach me **yougank22@gmail.com**
 
